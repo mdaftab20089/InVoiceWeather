@@ -36,7 +36,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/hussain123sahil/Invoice-generator-webapp
+git clone git clone\ https://github.com/mdaftab20089/InVoiceWeather.git.
 ```
 
 3. Navigate into the project directory:
@@ -63,4 +63,4 @@ Ensure that you have Node.js and npm installed on your machine before running th
 
 ### Meta
 
-Created by Sahil Hussain.
+Created by Md Aftab.
